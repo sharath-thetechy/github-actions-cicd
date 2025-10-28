@@ -126,8 +126,6 @@ jobs:
           push: true
           tags: sharus193/bankapp:latest2
           file: ./Dockerfile
-  
-    
 
 
 
