@@ -124,7 +124,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: sharus193/bankapp:latest2
+          tags: sharus193/bankapp:latest
           file: ./Dockerfile
 
 
