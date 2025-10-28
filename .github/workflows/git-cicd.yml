@@ -120,8 +120,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: sharus193/bankapp:latest          
-
+          tags: sharus193/bankapp:latest
     
 
 
